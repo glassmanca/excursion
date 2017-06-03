@@ -27,3 +27,7 @@ h3{
   font-size: 21px;
   font-family: verdana;
 }
+
+#copyright{
+  text-align: right;
+}
